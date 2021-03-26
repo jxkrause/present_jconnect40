@@ -1,10 +1,10 @@
 ---
-author: Malte Bonart
-title: Markdown Presentation
-subtitle: pandoc + reveal.js + gh pages
-date: 2021-03-25
+author: Jens Krause
+title: My Thinkpad learns Connect4
+subtitle: Journey to Reinforment Learing
+date: 2021-04-01
 theme: moon # https://revealjs.com/themes/
-transition: slide # https://revealjs.com/transitions/
+transition: zoom # https://revealjs.com/transitions/
 # see all the options here: https://revealjs.com/config/
 highlight-style: breezeDark
 progress: true
@@ -14,7 +14,7 @@ navigationMode: linear
 autoPlayMedia: true
 ---
 
-# reveal.js
+### My Thinkpad learns Connect4 - why
 
 
 ### What can you do with `reveal.js` 
@@ -52,11 +52,11 @@ pandoc -t revealjs slides.md -o index.html  \
 | <i class="fas fa-plus"></i> | 200 | 300n |
 
 
-### Videos
+### Rules of the game
 
 
-<iframe data-autoplay width="100%" height="400px" src="https://www.youtube.com/embed/Wfoy_OvNDvw"></iframe>
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Connect4_Wins.PNG/220px-Connect4_Wins.PNG)
 
 
 ### Fragments
