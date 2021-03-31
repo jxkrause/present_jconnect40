@@ -1,7 +1,7 @@
 ---
 author: Jens Krause
 title: Machine Learning Connect4
-subtitle: Data Science Graduation, Spiced Academy<img src="static/bad_move.png" style="max-width:300px">
+subtitle: Data Science Graduation, Spiced Academy<img src="static/before_win.png" style="max-width:300px">
 date: 01.04.2021
 theme:  solarized # https://revealjs.com/themes/
 transition: zoom # https://revealjs.com/transitions/
