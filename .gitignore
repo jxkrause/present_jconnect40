@@ -2,3 +2,6 @@ slides_local.md
 slides.html
 index.html
 reveal.js/*
+node_modules/*
+mermaid-images/*.mmd
+package-lock.json

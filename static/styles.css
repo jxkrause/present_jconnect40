@@ -9,7 +9,12 @@
 /*change the font size of the title on the first slide*/
 .title {
   font-size: 2.5em !important; /*important makes this first priority */
+  color: red;
 }
 
-
- 
+.container{
+  display: flex;
+}
+.col {
+  flex: 1;
+}
